@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "180996199152",
+    "project_id": "tugas-app-cb480",
+    "storage_bucket": "tugas-app-cb480.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180996199152:android:667bbd76e6d678a7462835",
+        "android_client_info": {
+          "package_name": "com.mobile.aplikasi_tugas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180996199152-7prhpg02silmmaesuv4j0i8tlr0380dr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.aplikasi_tugas",
+            "certificate_hash": "1bd9a4bf0e0986a0d9bd74c0c930912c5b72540a"
+          }
+        },
+        {
+          "client_id": "180996199152-2e07q9tb0d6kgcq0ce6j7i8ikk3gk91j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAP_2ZdHqclrTZBW4UOHM9hf9cafQmWAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180996199152-2e07q9tb0d6kgcq0ce6j7i8ikk3gk91j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
